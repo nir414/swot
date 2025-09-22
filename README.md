@@ -1,6 +1,19 @@
 # Swot :apple:
 
-[![Build Status](https://api.travis-ci.org/leereilly/swot.svg)](https://travis-ci.org/leereilly/swot) [![Gem Version](https://badge.fury.io/rb/swot.svg)](http://badge.fury.io/rb/swot)
+📦 **Archive notice:**
+
+What started as a tiny helper script to verify student email domains quietly grew into a hugely impactful project. SWOT scaled into the backbone of GitHub Education’s student verification system - powering automatic access to free private repositories, unlocking the [Student Developer Pack](https://education.github.com/pack), and quite literally delighting millions of students around the world.
+
+Along the way, it saved maintainers and GitHub staff not just hours, but hundreds of thousands (if not bazillions) of hours in manual review. A simple idea became a global gateway into the developer ecosystem - helping an entire generation of students start coding with professional-grade tools, for free.
+
+This repo is now archived, but the work lives on. The incredible team at JetBrains is carrying the torch - follow their fork for future updates: [JetBrains/swot](https://github.com/jetbrains/swot).
+
+To everyone who submitted domains, PRs, and issues over the years: thank you. You helped shape a project that made open source education more accessible, and the impact will outlive this repository. 🙏
+
+Cheers,<br>
+Lee 🍻
+
+-------
 
 If you have a product or service and offer **academic discounts**, there's a good chance there's some manual component to the approval process. Perhaps `.edu` email addresses are automatically approved because, for the most part at least, they're associated with American post-secondary educational institutions. Perhaps `.ac.uk` email addresses are automatically approved because they're guaranteed to belong to British universities and colleges. Unfortunately, not every country has an education-specific TLD (Top Level Domain) and plenty of schools use `.com` or `.net`.
 
